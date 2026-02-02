@@ -7,6 +7,8 @@
 🚀 Learning Algorithms & Problem Solving  
 
 📌 Check out my projects below 👇
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=440&lines=Ali+Jalalian;Computer+Science+Student;Python+%7C+Data+Structures;Future+Software+Engineer)
+
 <!--
 **bitbyali/bitbyali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
