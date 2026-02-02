@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+## Hi 👋 I'm Ali
+
+🎓 CE Student  
+🐍 Python | Data Structures  
+🚀 Learning Algorithms & Problem Solving  
+
+📌 Check out my projects below 👇
 <!--
 **bitbyali/bitbyali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
