@@ -1,6 +1,6 @@
  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=440&lines=Ali+Jalalian;Computer+Science+Student;Python+%7C+Data+Structures;Future+Software+Engineer)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bitbyali&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitbyali&layout=compact&theme=tokyonight)
 
 <!--
 
